@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Marrieon
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me: Instagram @_marr.i.on
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can recite the alphabet backwards in under 10 seconds!
+I’m @Marrieon a passionate data engineer
+
+
