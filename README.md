@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Marrieon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marrieon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies and awards 
 ![](https://github-profile-trophy.vercel.app/?username=Marrieon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
