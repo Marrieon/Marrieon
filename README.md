@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻Hi i am Marrieon Software Developer | Full-Stack Engineer<br><br>An innovative Software Developer with proven experience in building scalable, efficient, and maintainable applications across the full development lifecycle.. My expertise spans front-end, back-end, and DevOps workflows.<br><br>🔹 Frontend: React, JavaScript, HTML, CSS  <br>🔹 Backend: Python (Flask), REST APIs  <br>🔹 ERP Systems: ERPNext customization & automation  <br>🔹 DevOps: Jenkins CI/CD, MongoDB Atlas, Cloud deployments  <br><br>I focus on writing clean, maintainable code and building systems that solve real business problems efficiently.
+## 👨‍💻Hi I am Marrieon Software Developer | Full-Stack Engineer<br><br>An innovative Software Developer with proven experience in building scalable, efficient, and maintainable applications across the full development lifecycle.. My expertise spans front-end, back-end, and DevOps workflows.<br><br>🔹 Frontend: React, JavaScript, HTML, CSS  <br>🔹 Backend: Python (Flask), REST APIs  <br>🔹 ERP Systems: ERPNext customization & automation  <br>🔹 DevOps: Jenkins CI/CD, MongoDB Atlas, Cloud deployments  <br><br>I focus on writing clean, maintainable code and building systems that solve real business problems efficiently.
 
 
 ## 🌐 Socials:
